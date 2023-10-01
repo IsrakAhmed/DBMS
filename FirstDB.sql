@@ -1,0 +1,14 @@
+CREATE DATABASE FirstDB;
+
+USE FirstDB;
+
+CREATE TABLE student(
+	id INT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT NOT NULL
+);
+
+INSERT INTO student VALUES(3,"ISRAK",24);
+INSERT INTO student VALUES(15,"RIYA",22);
+
+SELECT * FROM student;
