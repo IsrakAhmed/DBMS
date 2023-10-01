@@ -1,1 +1,1 @@
-# DBMS_Lab
+# DBMS Lab	CSE 3122
